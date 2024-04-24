@@ -1,4 +1,3 @@
-package jenkins.ian.s
 
 import org.apache.spark.sql.SparkSession
 
